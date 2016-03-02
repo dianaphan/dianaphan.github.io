@@ -24,6 +24,9 @@ h3 {
     width: 100%;
 }
 a:link, a:hover, a:active, a:visited { 
-      color: #ffffff;
+      color: #ffffff !important;
+  }
+a.resume:link, a.resume:hover, a.resume:active, a.resume:visited { 
+      color: #ff99e6 !important;
   }
 
