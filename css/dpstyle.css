@@ -23,30 +23,6 @@ h3 {
     height: 100%;
     width: 100%;
 }
-.navbar {
-      font-family: Quicksand, sans-serif;
-      margin-bottom: 0px;
-      background-color: #000000 !important;
-      border-color: transparent;
-      border: 0px !important;
-      font-size: 15px !important;
-      letter-spacing: 4px;
-      opacity: 0.8;
-      text-align: center;
-  }
-li a, li a:hover, li a:active { 
+a:link, a:hover, a:active, a:visited { 
       color: #ffffff !important;
   }
-.navbar-nav li a:hover {
-      color: #ffffff !important;
-  }
-.navbar-nav li a:active {
-      color: #ffffff !important;
-  }
-#about, #blog, #photography {
-    background-color: #000000;
-    opacity: 0.8;
-    width: 80%;
-    height: 100%;
-    margin: auto;
-}
