@@ -119,4 +119,8 @@ iframe {
         display: inline-block !important;
         float: inherit;
     }
+    h1 {
+    font-size: 80%;
+    text-shadow: 2px 2px #000000;
+}
 }
