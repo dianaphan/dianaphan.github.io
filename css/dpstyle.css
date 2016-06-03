@@ -120,7 +120,7 @@ iframe {
         float: inherit;
     }
     h1 {
-    font-size: 80%;
+    font-size: 24px !important;
     text-shadow: 2px 2px #000000;
 }
 }
