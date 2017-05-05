@@ -36,6 +36,9 @@
       width: 100%;
  
 }
+.w3-container {
+      vertical-align: middle;
+}
   .jumbotron {
       color: #ffffff !important;
       padding: 100px 25px;
