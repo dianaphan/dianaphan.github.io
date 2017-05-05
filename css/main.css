@@ -38,6 +38,7 @@
 }
 .w3-container {
       vertical-align: middle;
+      height: 50px;
 }
   .jumbotron {
       color: #ffffff !important;
