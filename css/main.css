@@ -39,7 +39,7 @@
   .jumbotron {
       color: #ffffff !important;
       padding: 100px 25px;
-      font-family: Quicksand;
+      font-family: Montserrat;
       height: 300px;
       width: 100%;
       text-align: center;
@@ -68,7 +68,7 @@
       line-height: 2 !important;
       letter-spacing: 4px;
       border-radius: 0;
-      font-family: Quicksand;
+      font-family: Montserrat;
   }
   .navbar li a, .navbar .navbar-brand {
       color: #000000 !important;
